@@ -1,2 +1,3 @@
 # Projeto_Imersao_IA_Aula_4
-First project of a IA chat bot using Google Gemini
+
+This project aims to study the basic implementation of an artificial intelligence chatbot using Google's Gemini model
